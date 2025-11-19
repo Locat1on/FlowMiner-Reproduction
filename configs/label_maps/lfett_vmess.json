@@ -1,0 +1,22 @@
+{
+  "dir:dropbox": "dropbox",
+  "dir:facebook": "facebook",
+  "dir:facebook(ad)": "facebook_ad",
+  "dir:filezilla": "filezilla",
+  "dir:foxmail": "foxmail",
+  "dir:gmail": "gmail",
+  "dir:gmail(ad)": "gmail_ad",
+  "dir:icloudmail": "icloudmail",
+  "dir:instagram": "instagram",
+  "dir:line": "line",
+  "dir:linkedin": "linkedin",
+  "dir:messenger": "messenger",
+  "dir:outlook": "outlook",
+  "dir:servu": "servu",
+  "dir:skype": "skype",
+  "dir:telegram": "telegram",
+  "dir:twitter": "twitter",
+  "dir:whatsapp": "whatsapp",
+  "dir:youtube": "youtube"
+}
+

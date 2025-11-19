@@ -1,0 +1,8 @@
+torch
+torch-geometric==2.0.4
+dpkt
+nfstream
+pandas
+numpy
+scikit-learn
+matplotlib

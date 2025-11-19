@@ -1,0 +1,24 @@
+{
+  "vpn_aim_chat": "chat",
+  "vpn_facebook_chat": "chat",
+  "vpn_hangouts_chat": "chat",
+  "vpn_icq_chat": "chat",
+  "vpn_skype_chat": "chat",
+
+  "vpn_facebook_audio": "audio_call",
+  "vpn_hangouts_audio": "audio_call",
+  "vpn_skype_audio": "audio_call",
+  "vpn_voipbuster": "audio_call",
+
+  "vpn_bittorrent": "file_transfer",
+  "vpn_ftps": "file_transfer",
+  "vpn_sftp": "file_transfer",
+  "vpn_skype_files": "file_transfer",
+
+  "vpn_netflix": "streaming",
+  "vpn_youtube": "streaming",
+  "vpn_vimeo": "streaming",
+  "vpn_spotify": "streaming",
+
+  "vpn_email": "other"
+}

@@ -1,0 +1,27 @@
+{
+  "aim_chat": "chat",
+  "aimchat": "chat",
+  "facebook_chat": "chat",
+  "facebookchat": "chat",
+  "hangouts_chat": "chat",
+  "icq_chat": "chat",
+  "skype_chat": "chat",
+
+  "facebook_audio": "audio_call",
+  "hangouts_audio": "audio_call",
+  "skype_audio": "audio_call",
+  "voipbuster": "audio_call",
+
+  "bittorrent": "file_transfer",
+  "ftps": "file_transfer",
+  "sftp": "file_transfer",
+  "skype_files": "file_transfer",
+
+  "netflix": "streaming",
+  "youtube": "streaming",
+  "vimeo": "streaming",
+  "spotify": "streaming",
+
+  "email": "other"
+}
+
