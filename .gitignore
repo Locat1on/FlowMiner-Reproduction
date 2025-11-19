@@ -1,0 +1,27 @@
+# Python 编译文件
+__pycache__/
+*.pyc
+
+# VS Code 配置
+.vscode/
+
+# 数据集 (千万不要上传原始数据)
+data/
+data/raw/
+data/processed/
+data/graphs/
+
+# 实验结果和日志
+results/
+logs/
+*.log
+*.json
+
+# 虚拟环境 (如果有在项目内)
+venv/
+env/
+.env
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
